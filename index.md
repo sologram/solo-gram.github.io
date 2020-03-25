@@ -1,4 +1,4 @@
 ---
-permalink: /index.html
+layout: default
 ---
 # Hello, world!
