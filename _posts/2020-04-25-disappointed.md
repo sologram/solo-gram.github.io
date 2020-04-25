@@ -2,6 +2,7 @@
 layout: post
 title: 为什么会对思想家失望?
 tags: [思想, 哲学]
+featured: true
 image: '/images/posts/8.jpg'
 ---
 
